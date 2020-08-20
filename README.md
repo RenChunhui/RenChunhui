@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renchunhui&layout=compact)](https://github.com/renchunhui)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=renchunhui)](https://github.com/renchunhui)
 
 
 ### Open source projects
